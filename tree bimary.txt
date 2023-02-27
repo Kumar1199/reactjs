@@ -1,0 +1,13 @@
+Trees 
+types of binary trees 
+1.full binary tree
+2.perfect binary tree
+3.balanced binary tree
+4.complete binary tree
+5.degenerated binary tree
+
+1=every node is having either one or two nodes
+2=every level is completely filled except last level 
+3=the height of the tree should be log(n) where n is the number nodes
+4=evry level should completely filled
+5=tree is developped along right side
